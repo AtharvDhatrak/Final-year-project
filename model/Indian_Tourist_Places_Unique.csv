@@ -1,0 +1,301 @@
+Zone,State,City,Name,Type,Establishment Year,Time Needed (hrs),Google Review Rating,Entrance Fee (INR),Airport with 50km Radius,Weekly Off,Significance,DSLR Allowed,Number of Google Reviews (in lakhs),Best Time to Visit,Latitude,Longitude
+North-East,Odisha,Bhubaneswar,Place 1,Beach,1667.0,2.8,3.9,200,No,Saturday,UNESCO World Heritage Site,Yes,4.1,October to March,16.3601,91.7988
+West,Himachal Pradesh,Shimla,Place 2,Museum,1711.0,2.5,4.3,50,Yes,Monday,Pilgrimage Site,Yes,9.1,October to March,35.6008,75.7197
+North-East,Odisha,Bhubaneswar,Place 3,Beach,,4.5,4.1,20,No,Sunday,UNESCO World Heritage Site,Yes,8.4,October to March,17.9531,72.3991
+Central,Bihar,Patna,Place 4,Monument,1740.0,1.9,3.9,100,No,Monday,Popular Tourist Spot,No,6.6,April to September,33.9921,76.5642
+West,Kerala,Thiruvananthapuram,Place 5,Museum,,1.1,4.8,100,No,Monday,Popular Tourist Spot,Yes,8.8,Year-round,17.8087,71.0109
+East,Rajasthan,Udaipur,Place 6,Historical,,1.5,3.6,100,Yes,Sunday,UNESCO World Heritage Site,Yes,1.1,October to March,13.5198,69.2289
+East,Himachal Pradesh,Manali,Place 7,Beach,1569.0,3.1,3.5,20,Yes,Monday,Pilgrimage Site,Yes,0.8,Year-round,8.064,79.3802
+South,Assam,Guwahati,Place 8,Historical,,1.5,4.8,50,Yes,None,UNESCO World Heritage Site,Yes,9.3,October to March,36.0257,92.8723
+Central,Delhi,Delhi,Place 9,Cultural,,3.4,4.4,200,No,Thursday,UNESCO World Heritage Site,No,6.0,October to March,29.9031,93.4347
+Central,Bihar,Patna,Place 10,Nature,,3.4,4.0,100,No,Wednesday,Pilgrimage Site,Yes,8.1,Year-round,12.6163,79.4545
+East,Kerala,Thiruvananthapuram,Place 11,Nature,,1.2,4.0,200,No,Wednesday,Colonial Heritage,Yes,7.4,Year-round,17.8403,82.353
+South,West Bengal,Darjeeling,Place 12,Religious,,4.2,5.0,20,Yes,Tuesday,UNESCO World Heritage Site,No,9.4,October to March,31.4945,95.7191
+Central,Bihar,Patna,Place 13,Monument,,3.7,4.7,100,No,Monday,Colonial Heritage,No,9.4,April to September,31.2967,73.3882
+West,Jammu & Kashmir,Srinagar,Place 14,Religious,1614.0,4.9,3.8,20,Yes,Friday,Popular Tourist Spot,No,5.4,October to March,15.7379,69.2633
+East,Karnataka,Mysuru,Place 15,Beach,,4.1,4.0,200,No,Monday,Colonial Heritage,Yes,3.8,October to March,24.8389,74.2459
+West,Meghalaya,Shillong,Place 16,Cultural,,4.4,4.2,50,Yes,Friday,Pilgrimage Site,Yes,4.1,April to September,13.2083,88.356
+East,Meghalaya,Shillong,Place 17,Monument,,1.1,3.5,100,No,Sunday,Pilgrimage Site,Yes,5.9,April to September,21.8507,83.4823
+West,Gujarat,Ahmedabad,Place 18,Museum,,3.1,4.8,200,No,Friday,Popular Tourist Spot,Yes,8.5,October to March,33.9547,94.8349
+West,Punjab,Amritsar,Place 19,Nature,,4.5,3.7,200,No,Wednesday,Popular Tourist Spot,Yes,5.0,Year-round,18.4583,75.9429
+East,Gujarat,Ahmedabad,Place 20,Nature,1563.0,2.6,3.5,20,Yes,Thursday,UNESCO World Heritage Site,No,7.9,October to March,25.9259,70.4418
+North-East,Andhra Pradesh,Tirupati,Place 21,Historical,1526.0,1.8,4.9,20,No,Wednesday,Popular Tourist Spot,Yes,3.7,Year-round,11.1506,82.7069
+West,Andhra Pradesh,Tirupati,Place 22,Market,,1.2,4.5,200,No,Wednesday,Colonial Heritage,Yes,7.5,October to March,13.2929,94.9115
+South,Himachal Pradesh,Manali,Place 23,Beach,1998.0,1.1,4.4,20,Yes,Saturday,Popular Tourist Spot,No,1.9,Year-round,18.3497,78.818
+South,Tamil Nadu,Coimbatore,Place 24,Historical,,5.0,3.7,0,No,None,Popular Tourist Spot,Yes,5.7,October to March,22.3985,94.7363
+North,Telangana,Hyderabad,Place 25,Museum,,4.0,5.0,20,No,Friday,UNESCO World Heritage Site,Yes,9.9,October to March,19.1945,76.9284
+West,Karnataka,Mysuru,Place 26,Cultural,,1.3,4.5,20,Yes,Friday,Pilgrimage Site,Yes,9.6,October to March,9.577,90.6642
+South,Kerala,Thiruvananthapuram,Place 27,Monument,1639.0,2.7,4.0,50,Yes,Thursday,Colonial Heritage,No,6.7,October to March,33.1599,72.6014
+South,Assam,Guwahati,Place 28,Monument,,4.2,4.3,20,No,None,Colonial Heritage,No,6.2,Year-round,23.4077,87.0434
+North,Tamil Nadu,Chennai,Place 29,Nature,1927.0,4.2,4.5,200,Yes,Thursday,Popular Tourist Spot,No,5.5,Year-round,29.0774,83.4838
+East,Gujarat,Ahmedabad,Place 30,Historical,1563.0,4.1,4.3,0,No,Sunday,Pilgrimage Site,No,1.8,October to March,16.8079,87.5945
+North,Rajasthan,Jaipur,Place 31,Museum,1654.0,1.6,4.5,0,Yes,Thursday,UNESCO World Heritage Site,No,8.7,April to September,33.3267,86.6416
+South,Telangana,Hyderabad,Place 32,Cultural,,3.9,4.6,20,No,Friday,Popular Tourist Spot,Yes,2.6,April to September,20.4844,80.0213
+North,Odisha,Puri,Place 33,Monument,,1.4,4.2,0,No,Thursday,UNESCO World Heritage Site,Yes,9.7,October to March,26.6658,68.974
+North-East,West Bengal,Darjeeling,Place 34,Beach,,3.6,4.4,20,Yes,Friday,Pilgrimage Site,Yes,3.3,Year-round,15.9065,95.6981
+North-East,Madhya Pradesh,Bhopal,Place 35,Museum,1988.0,4.9,4.5,100,Yes,Sunday,Pilgrimage Site,No,6.2,April to September,30.2028,70.2666
+North,Madhya Pradesh,Bhopal,Place 36,Museum,,3.7,4.6,100,No,Tuesday,Pilgrimage Site,No,4.7,April to September,29.6092,75.2301
+Central,West Bengal,Darjeeling,Place 37,Historical,1881.0,4.2,3.7,100,No,Monday,UNESCO World Heritage Site,Yes,8.5,October to March,23.2434,88.137
+Central,Assam,Tezpur,Place 38,Museum,1830.0,4.7,4.2,50,No,Wednesday,Pilgrimage Site,No,0.8,April to September,34.3679,82.0586
+West,Jammu & Kashmir,Srinagar,Place 39,Nature,,4.7,5.0,50,No,Friday,UNESCO World Heritage Site,No,3.7,Year-round,20.3842,79.2141
+North,Goa,Margao,Place 40,Beach,,2.4,4.3,100,No,Tuesday,Popular Tourist Spot,No,8.2,October to March,33.6901,83.456
+Central,Karnataka,Bengaluru,Place 41,Market,1826.0,4.0,4.3,20,No,Monday,UNESCO World Heritage Site,No,9.8,October to March,21.4068,69.3693
+North-East,Meghalaya,Shillong,Place 42,Nature,,2.7,4.6,100,Yes,Saturday,UNESCO World Heritage Site,Yes,4.2,April to September,22.771,74.7968
+North,Odisha,Puri,Place 43,Religious,1516.0,2.3,3.6,100,No,Wednesday,Colonial Heritage,Yes,8.1,October to March,20.1897,82.0114
+West,Meghalaya,Cherrapunji,Place 44,Beach,1704.0,4.6,4.0,50,No,None,Colonial Heritage,No,9.4,October to March,8.9125,83.7469
+Central,Jammu & Kashmir,Jammu,Place 45,Cultural,1655.0,4.7,3.9,0,No,Tuesday,UNESCO World Heritage Site,No,5.6,April to September,25.6394,78.5017
+South,Uttar Pradesh,Agra,Place 46,Nature,1537.0,3.8,4.1,0,Yes,Friday,Colonial Heritage,Yes,1.7,April to September,31.3802,85.3699
+Central,Uttar Pradesh,Agra,Place 47,Cultural,,2.5,4.7,0,Yes,Sunday,Popular Tourist Spot,Yes,8.2,Year-round,33.5424,92.8796
+North,Odisha,Puri,Place 48,Religious,1682.0,1.9,4.6,20,Yes,Sunday,UNESCO World Heritage Site,No,8.6,October to March,9.6719,75.0749
+North,Punjab,Amritsar,Place 49,Museum,1505.0,2.2,4.0,200,No,Saturday,Colonial Heritage,No,9.2,April to September,15.8793,79.5914
+South,Delhi,Delhi,Place 50,Museum,,1.8,4.7,200,Yes,Saturday,Popular Tourist Spot,No,5.4,October to March,20.4719,77.8253
+East,Karnataka,Bengaluru,Place 51,Museum,,1.3,3.7,20,Yes,Saturday,Colonial Heritage,No,2.9,April to September,18.7991,81.641
+West,Uttar Pradesh,Varanasi,Place 52,Nature,1770.0,3.0,3.7,200,Yes,Friday,Popular Tourist Spot,No,2.3,October to March,25.3696,93.5552
+West,Andhra Pradesh,Visakhapatnam,Place 53,Museum,1738.0,1.0,3.9,100,No,Monday,Colonial Heritage,Yes,0.7,October to March,34.803,76.079
+West,Meghalaya,Cherrapunji,Place 54,Monument,1825.0,1.3,4.5,20,No,Tuesday,Pilgrimage Site,No,4.1,October to March,23.4869,84.2596
+Central,Uttar Pradesh,Varanasi,Place 55,Nature,1612.0,3.1,4.2,50,No,Friday,Popular Tourist Spot,Yes,5.3,April to September,8.7461,88.6413
+West,Madhya Pradesh,Indore,Place 56,Historical,1686.0,3.1,4.5,100,Yes,None,UNESCO World Heritage Site,No,2.7,October to March,22.3229,91.8332
+North,Uttar Pradesh,Agra,Place 57,Monument,1723.0,4.9,4.4,200,Yes,Wednesday,Colonial Heritage,Yes,1.2,October to March,13.2795,81.9423
+East,Jammu & Kashmir,Jammu,Place 58,Market,1764.0,1.5,4.2,100,No,Sunday,UNESCO World Heritage Site,Yes,6.8,Year-round,29.9955,78.8563
+East,West Bengal,Kolkata,Place 59,Nature,,1.2,3.6,200,Yes,Wednesday,Colonial Heritage,No,2.1,Year-round,26.2614,95.9217
+West,Telangana,Hyderabad,Place 60,Monument,1954.0,2.1,4.2,200,Yes,Friday,UNESCO World Heritage Site,No,9.2,October to March,30.3073,77.4709
+Central,Punjab,Chandigarh,Place 61,Market,1781.0,4.1,4.1,100,Yes,Thursday,Popular Tourist Spot,Yes,9.4,Year-round,23.4903,70.4432
+South,Jammu & Kashmir,Jammu,Place 62,Beach,1700.0,2.5,3.5,50,Yes,Monday,UNESCO World Heritage Site,Yes,5.8,April to September,21.7884,86.3966
+Central,Bihar,Patna,Place 63,Nature,,2.9,4.8,50,Yes,Friday,UNESCO World Heritage Site,No,2.2,Year-round,15.5387,81.2606
+South,Bihar,Gaya,Place 64,Religious,1932.0,1.3,4.7,200,Yes,Sunday,UNESCO World Heritage Site,No,3.1,Year-round,28.1334,78.209
+West,Andhra Pradesh,Visakhapatnam,Place 65,Beach,,1.6,4.5,0,No,Monday,UNESCO World Heritage Site,No,7.9,April to September,11.602,92.5525
+North-East,Madhya Pradesh,Bhopal,Place 66,Market,1844.0,3.9,3.9,100,No,Saturday,Popular Tourist Spot,Yes,6.7,Year-round,21.6983,75.9831
+Central,Kerala,Thiruvananthapuram,Place 67,Historical,,4.7,4.0,0,No,Wednesday,Pilgrimage Site,Yes,9.2,April to September,17.277,90.9046
+Central,Rajasthan,Udaipur,Place 68,Museum,1783.0,4.4,3.5,200,Yes,Monday,Pilgrimage Site,No,0.8,April to September,31.5541,77.3835
+West,Punjab,Amritsar,Place 69,Monument,,2.1,4.0,200,Yes,Thursday,UNESCO World Heritage Site,Yes,2.6,Year-round,8.5379,77.5194
+South,Gujarat,Vadodara,Place 70,Cultural,,1.1,4.0,50,Yes,Saturday,UNESCO World Heritage Site,Yes,4.2,October to March,14.6082,86.3028
+North-East,Himachal Pradesh,Shimla,Place 71,Religious,,3.5,4.8,0,No,Saturday,Pilgrimage Site,Yes,6.3,Year-round,33.5691,69.4774
+East,Kerala,Kochi,Place 72,Nature,1758.0,2.7,3.6,20,Yes,Tuesday,Popular Tourist Spot,Yes,1.9,Year-round,26.7054,76.4674
+North-East,Punjab,Amritsar,Place 73,Monument,1937.0,4.9,4.6,50,No,Wednesday,Pilgrimage Site,Yes,3.4,April to September,21.0611,83.1829
+North,Tamil Nadu,Chennai,Place 74,Market,,3.5,4.4,0,Yes,Wednesday,Colonial Heritage,No,7.1,April to September,14.6728,90.552
+West,Madhya Pradesh,Gwalior,Place 75,Cultural,1593.0,2.4,4.4,200,No,None,Pilgrimage Site,Yes,0.9,October to March,25.2522,81.6381
+West,Bihar,Gaya,Place 76,Museum,1918.0,3.0,4.5,100,Yes,Thursday,Colonial Heritage,Yes,4.4,April to September,27.857,96.7043
+West,Kerala,Kochi,Place 77,Beach,,3.6,4.2,20,Yes,Sunday,Colonial Heritage,No,9.0,October to March,31.5402,80.2169
+North-East,Goa,Margao,Place 78,Religious,1575.0,1.7,3.7,0,No,Thursday,Pilgrimage Site,No,2.2,April to September,10.2736,83.7882
+East,Telangana,Hyderabad,Place 79,Monument,1516.0,3.3,4.6,100,Yes,Tuesday,Colonial Heritage,No,1.1,Year-round,9.8563,88.7659
+West,Gujarat,Ahmedabad,Place 80,Market,1650.0,2.2,3.8,50,No,None,UNESCO World Heritage Site,Yes,1.8,April to September,10.4812,84.7622
+Central,Assam,Tezpur,Place 81,Nature,1566.0,4.9,4.5,100,No,Sunday,UNESCO World Heritage Site,Yes,1.7,Year-round,34.7604,95.8127
+South,Telangana,Hyderabad,Place 82,Museum,,3.0,3.7,50,No,Sunday,Popular Tourist Spot,No,5.9,Year-round,34.2563,70.8546
+South,Meghalaya,Shillong,Place 83,Market,1980.0,4.7,5.0,20,No,Sunday,Colonial Heritage,No,5.5,April to September,30.6551,80.1614
+West,Punjab,Chandigarh,Place 84,Nature,,4.1,4.8,20,Yes,Thursday,Pilgrimage Site,Yes,7.1,April to September,8.3372,77.8157
+North-East,Madhya Pradesh,Bhopal,Place 85,Cultural,1790.0,2.4,4.3,200,No,Wednesday,Popular Tourist Spot,No,9.9,April to September,16.2899,72.3204
+North-East,Rajasthan,Udaipur,Place 86,Cultural,1542.0,1.3,4.4,200,Yes,None,Popular Tourist Spot,Yes,8.0,Year-round,24.9437,82.3865
+South,West Bengal,Darjeeling,Place 87,Monument,1789.0,1.6,4.7,200,Yes,Thursday,Popular Tourist Spot,No,2.2,April to September,19.3058,78.6728
+North-East,Goa,Panaji,Place 88,Religious,,4.2,4.5,200,Yes,Monday,Pilgrimage Site,No,4.9,Year-round,27.9507,93.5463
+West,Goa,Margao,Place 89,Nature,1939.0,3.2,3.6,0,No,Friday,Popular Tourist Spot,No,3.0,October to March,12.9272,92.6266
+North,Rajasthan,Jaipur,Place 90,Historical,,3.6,5.0,20,Yes,Monday,Pilgrimage Site,No,5.9,October to March,25.6432,86.2599
+North-East,Delhi,Delhi,Place 91,Religious,,1.5,4.3,50,Yes,Thursday,UNESCO World Heritage Site,No,7.6,October to March,19.8149,79.4749
+North-East,Telangana,Hyderabad,Place 92,Market,,2.6,3.9,200,Yes,Wednesday,Popular Tourist Spot,No,1.5,Year-round,13.9619,70.0691
+North-East,Rajasthan,Jaipur,Place 93,Nature,1656.0,3.2,3.6,50,Yes,None,Pilgrimage Site,Yes,0.7,April to September,13.5259,75.4018
+South,Meghalaya,Shillong,Place 94,Historical,,1.6,4.0,0,Yes,Monday,Colonial Heritage,No,1.6,April to September,20.8534,83.1653
+North-East,Punjab,Chandigarh,Place 95,Historical,1811.0,3.2,4.6,0,No,Thursday,Pilgrimage Site,Yes,9.6,Year-round,8.2505,90.9243
+South,Telangana,Hyderabad,Place 96,Monument,1793.0,2.5,4.7,20,No,Tuesday,Colonial Heritage,Yes,4.4,Year-round,28.37,71.2451
+Central,Gujarat,Ahmedabad,Place 97,Market,1902.0,2.0,4.7,20,Yes,Tuesday,Popular Tourist Spot,No,3.4,Year-round,28.6131,93.2315
+West,Himachal Pradesh,Manali,Place 98,Historical,,4.1,4.5,200,Yes,Saturday,Colonial Heritage,No,5.8,October to March,29.6612,94.8966
+West,Uttar Pradesh,Agra,Place 99,Religious,1599.0,4.0,4.0,20,No,Sunday,UNESCO World Heritage Site,No,2.8,April to September,8.4519,95.2347
+Central,Uttar Pradesh,Lucknow,Place 100,Religious,,3.3,4.9,20,Yes,Sunday,Colonial Heritage,Yes,1.6,October to March,12.9443,79.99
+South,Delhi,Delhi,Place 101,Beach,,3.1,3.6,200,Yes,Tuesday,Pilgrimage Site,No,4.8,Year-round,13.8219,86.9728
+North,Tamil Nadu,Madurai,Place 102,Religious,,4.0,3.9,50,No,Wednesday,Pilgrimage Site,No,1.9,October to March,19.9477,81.4805
+West,Delhi,Delhi,Place 103,Religious,1760.0,3.8,4.1,0,Yes,None,Pilgrimage Site,No,8.3,Year-round,20.4765,75.6827
+North,West Bengal,Darjeeling,Place 104,Monument,1506.0,2.4,3.7,0,No,Sunday,Colonial Heritage,Yes,7.8,April to September,27.4314,80.4686
+North-East,Rajasthan,Jodhpur,Place 105,Nature,1599.0,4.0,4.8,50,No,Thursday,Colonial Heritage,No,1.8,October to March,26.2363,93.6157
+Central,Meghalaya,Cherrapunji,Place 106,Religious,,4.4,4.8,50,Yes,Sunday,Popular Tourist Spot,No,7.6,Year-round,10.5328,74.766
+West,Rajasthan,Jodhpur,Place 107,Cultural,1748.0,4.6,4.8,100,Yes,Friday,Colonial Heritage,No,9.6,Year-round,32.0074,86.1974
+East,Madhya Pradesh,Indore,Place 108,Museum,,1.9,3.5,0,No,Friday,Pilgrimage Site,Yes,0.7,October to March,8.1043,76.1832
+North-East,Jammu & Kashmir,Jammu,Place 109,Historical,1607.0,3.4,4.6,0,Yes,Tuesday,Colonial Heritage,No,1.5,October to March,31.1328,68.5036
+West,Bihar,Gaya,Place 110,Market,1573.0,2.2,4.2,20,Yes,Thursday,UNESCO World Heritage Site,No,2.0,October to March,28.2594,71.0967
+North,Madhya Pradesh,Gwalior,Place 111,Nature,1669.0,2.3,4.9,20,No,None,Pilgrimage Site,No,1.2,Year-round,20.19,89.4411
+North-East,Andhra Pradesh,Tirupati,Place 112,Beach,1669.0,1.5,4.0,0,Yes,Friday,Popular Tourist Spot,Yes,8.2,April to September,16.7549,93.9682
+Central,Goa,Panaji,Place 113,Nature,,1.0,4.7,50,Yes,Thursday,Pilgrimage Site,Yes,9.5,Year-round,13.5954,91.5954
+North-East,Andhra Pradesh,Visakhapatnam,Place 114,Nature,1978.0,4.5,3.7,0,Yes,Friday,Pilgrimage Site,Yes,9.1,April to September,16.6575,74.2009
+East,Karnataka,Bengaluru,Place 115,Market,,1.6,4.9,100,No,Monday,Colonial Heritage,Yes,7.4,Year-round,24.3024,69.4302
+North,Karnataka,Bengaluru,Place 116,Religious,1527.0,3.5,4.1,50,No,Saturday,Colonial Heritage,Yes,8.2,April to September,35.9765,70.9645
+South,Goa,Margao,Place 117,Monument,,2.4,3.6,200,Yes,Tuesday,Colonial Heritage,Yes,1.1,October to March,16.7962,80.0647
+North,Himachal Pradesh,Shimla,Place 118,Religious,1817.0,4.5,4.7,20,No,Friday,Colonial Heritage,Yes,9.8,Year-round,9.0546,86.5378
+North-East,Kerala,Kochi,Place 119,Religious,1587.0,4.4,5.0,0,No,Wednesday,Popular Tourist Spot,Yes,7.0,April to September,34.2496,92.6841
+North-East,Assam,Tezpur,Place 120,Nature,1512.0,3.6,3.8,100,No,Thursday,Pilgrimage Site,No,1.0,October to March,9.512,75.2399
+East,Tamil Nadu,Chennai,Place 121,Cultural,,4.2,3.8,100,Yes,Wednesday,Popular Tourist Spot,Yes,7.0,October to March,26.8651,93.4947
+East,Assam,Tezpur,Place 122,Nature,1538.0,4.8,3.6,100,No,Friday,Colonial Heritage,Yes,2.1,October to March,17.2918,91.043
+North-East,Meghalaya,Shillong,Place 123,Historical,,3.6,3.9,100,Yes,Tuesday,Pilgrimage Site,Yes,9.6,Year-round,13.1343,81.5261
+South,Karnataka,Mysuru,Place 124,Beach,1734.0,1.1,4.3,100,No,Thursday,Pilgrimage Site,Yes,5.3,October to March,33.365,93.2299
+North-East,Rajasthan,Jaipur,Place 125,Museum,,1.0,3.8,20,Yes,Friday,Pilgrimage Site,Yes,8.9,Year-round,19.0866,91.1841
+East,Jammu & Kashmir,Jammu,Place 126,Museum,,2.4,3.7,100,Yes,Sunday,Popular Tourist Spot,No,7.2,April to September,14.3544,68.1917
+East,Telangana,Hyderabad,Place 127,Religious,,1.9,4.9,200,Yes,Sunday,Popular Tourist Spot,Yes,9.0,Year-round,31.7335,77.4791
+North,Karnataka,Bengaluru,Place 128,Nature,,4.8,4.0,200,Yes,Wednesday,Colonial Heritage,Yes,6.6,October to March,34.1479,85.2279
+East,Meghalaya,Shillong,Place 129,Museum,1765.0,1.6,4.4,100,No,Sunday,Pilgrimage Site,No,5.2,October to March,19.4959,91.5277
+North-East,Telangana,Hyderabad,Place 130,Market,1885.0,3.0,4.0,20,No,Thursday,UNESCO World Heritage Site,No,4.7,Year-round,27.6168,93.6097
+South,West Bengal,Darjeeling,Place 131,Monument,,2.5,4.3,200,No,Saturday,Popular Tourist Spot,No,8.8,April to September,14.2783,71.2723
+East,Karnataka,Bengaluru,Place 132,Monument,,1.2,4.9,50,No,None,UNESCO World Heritage Site,No,5.0,October to March,30.381,96.8147
+North,Punjab,Chandigarh,Place 133,Religious,1582.0,2.0,4.8,50,No,Wednesday,Pilgrimage Site,Yes,3.2,Year-round,23.7133,68.4812
+East,Karnataka,Mysuru,Place 134,Market,,1.9,4.0,20,Yes,Monday,Colonial Heritage,No,0.7,October to March,17.559,81.0388
+West,Jammu & Kashmir,Jammu,Place 135,Cultural,,3.4,4.3,0,Yes,Monday,Colonial Heritage,Yes,4.1,Year-round,12.9457,96.4098
+North,Karnataka,Mysuru,Place 136,Museum,1612.0,3.2,4.1,0,No,Tuesday,UNESCO World Heritage Site,Yes,2.3,April to September,34.8584,81.4768
+East,Odisha,Bhubaneswar,Place 137,Religious,,1.4,4.3,200,Yes,Wednesday,UNESCO World Heritage Site,Yes,4.2,October to March,14.8819,77.6568
+East,Delhi,Delhi,Place 138,Market,,4.4,4.2,0,No,Saturday,Popular Tourist Spot,Yes,5.8,October to March,23.8143,70.6774
+West,Himachal Pradesh,Manali,Place 139,Cultural,1721.0,3.4,4.7,200,Yes,Thursday,Pilgrimage Site,Yes,8.0,October to March,23.6764,90.6944
+North-East,West Bengal,Kolkata,Place 140,Nature,1826.0,3.6,3.7,20,No,Wednesday,UNESCO World Heritage Site,No,7.1,Year-round,11.1591,74.564
+Central,Meghalaya,Cherrapunji,Place 141,Religious,1576.0,1.9,4.8,0,No,Friday,Pilgrimage Site,No,4.0,October to March,9.7384,68.7808
+East,Rajasthan,Udaipur,Place 142,Cultural,,3.1,4.4,100,Yes,Monday,Colonial Heritage,Yes,8.9,October to March,13.564,77.3202
+Central,Assam,Guwahati,Place 143,Museum,,2.2,4.0,20,No,Thursday,Pilgrimage Site,No,0.7,April to September,20.3222,94.5701
+North-East,Bihar,Patna,Place 144,Monument,,2.0,3.8,50,No,Tuesday,Popular Tourist Spot,No,2.8,April to September,11.7231,73.7848
+Central,Odisha,Puri,Place 145,Cultural,1997.0,4.1,3.7,100,No,Friday,UNESCO World Heritage Site,Yes,6.7,October to March,29.3356,87.3056
+North-East,Meghalaya,Shillong,Place 146,Museum,1976.0,4.5,4.8,100,No,Friday,Popular Tourist Spot,No,9.8,Year-round,31.8656,89.7085
+West,Kerala,Thiruvananthapuram,Place 147,Nature,,3.7,4.0,200,Yes,Thursday,Popular Tourist Spot,No,2.9,April to September,16.6426,82.0114
+South,Assam,Tezpur,Place 148,Nature,1500.0,2.0,4.8,0,Yes,Thursday,Popular Tourist Spot,No,7.5,April to September,30.505,81.8046
+Central,Uttar Pradesh,Varanasi,Place 149,Museum,,3.5,3.8,0,Yes,Sunday,Colonial Heritage,No,3.9,Year-round,22.9291,73.096
+North,Telangana,Hyderabad,Place 150,Market,,3.8,5.0,50,No,Saturday,Colonial Heritage,No,0.7,April to September,31.4555,91.2329
+North-East,Kerala,Thiruvananthapuram,Place 151,Nature,,2.2,4.0,200,Yes,Sunday,Pilgrimage Site,No,7.9,October to March,26.9981,74.9278
+East,Tamil Nadu,Chennai,Place 152,Monument,,4.1,4.9,20,Yes,Sunday,Popular Tourist Spot,Yes,9.2,Year-round,21.4237,82.5032
+East,Uttar Pradesh,Agra,Place 153,Historical,,3.0,4.6,20,No,Thursday,Pilgrimage Site,No,3.2,April to September,32.9008,74.3988
+North-East,Punjab,Amritsar,Place 154,Cultural,,4.0,3.6,20,Yes,Saturday,Pilgrimage Site,No,3.1,October to March,27.3155,90.364
+East,Rajasthan,Jodhpur,Place 155,Market,1837.0,2.1,3.6,50,Yes,Friday,Pilgrimage Site,Yes,5.3,Year-round,23.1258,68.44
+West,Meghalaya,Cherrapunji,Place 156,Market,1950.0,2.7,4.6,100,No,Sunday,Pilgrimage Site,Yes,1.7,April to September,24.4128,71.6889
+West,Assam,Guwahati,Place 157,Historical,1966.0,2.9,5.0,200,Yes,Sunday,Colonial Heritage,No,3.3,April to September,28.8842,71.5
+West,Goa,Panaji,Place 158,Historical,,3.4,4.1,50,No,Monday,Popular Tourist Spot,No,5.4,April to September,27.5009,95.5992
+North-East,Punjab,Chandigarh,Place 159,Monument,,3.4,3.6,100,No,Saturday,Pilgrimage Site,Yes,2.8,October to March,26.5604,79.0112
+East,Gujarat,Vadodara,Place 160,Cultural,,1.4,5.0,200,No,Saturday,Pilgrimage Site,No,4.8,Year-round,34.778,96.9699
+North,Himachal Pradesh,Shimla,Place 161,Historical,,2.6,3.6,0,No,Thursday,UNESCO World Heritage Site,No,8.1,April to September,21.8609,76.3744
+North-East,West Bengal,Kolkata,Place 162,Cultural,,2.9,4.6,20,Yes,Monday,Pilgrimage Site,No,8.5,April to September,34.8483,69.1325
+Central,Andhra Pradesh,Tirupati,Place 163,Religious,1616.0,4.0,3.6,200,No,None,UNESCO World Heritage Site,Yes,8.7,October to March,21.498,90.8581
+North,Bihar,Gaya,Place 164,Market,,1.1,4.1,100,No,Saturday,Pilgrimage Site,No,2.6,April to September,9.7367,79.4915
+Central,Rajasthan,Jodhpur,Place 165,Monument,,2.6,4.5,100,No,Monday,UNESCO World Heritage Site,No,8.8,Year-round,18.2763,68.817
+Central,Punjab,Amritsar,Place 166,Historical,1589.0,2.1,3.7,20,No,Friday,Colonial Heritage,No,8.5,April to September,19.9327,77.8499
+North-East,Jammu & Kashmir,Srinagar,Place 167,Monument,1732.0,2.0,4.1,200,Yes,Saturday,UNESCO World Heritage Site,No,1.3,Year-round,10.5441,87.5453
+East,Karnataka,Mysuru,Place 168,Market,,3.1,3.8,100,Yes,Thursday,Pilgrimage Site,Yes,8.6,April to September,36.6277,71.143
+Central,Madhya Pradesh,Indore,Place 169,Market,,1.9,4.3,200,No,Sunday,UNESCO World Heritage Site,No,6.2,October to March,20.0411,85.5495
+West,Rajasthan,Udaipur,Place 170,Historical,,2.0,4.3,0,No,Thursday,Pilgrimage Site,Yes,7.8,October to March,12.6823,80.843
+South,Jammu & Kashmir,Jammu,Place 171,Market,1797.0,4.3,3.7,100,No,Wednesday,Colonial Heritage,Yes,1.5,October to March,29.5555,93.17
+East,Meghalaya,Shillong,Place 172,Monument,1974.0,2.0,4.5,200,Yes,Sunday,UNESCO World Heritage Site,No,7.8,April to September,25.9575,88.4265
+Central,Odisha,Bhubaneswar,Place 173,Nature,,1.2,4.1,0,Yes,Tuesday,Colonial Heritage,Yes,7.4,April to September,18.0974,71.692
+Central,Gujarat,Ahmedabad,Place 174,Cultural,,4.8,4.2,0,No,Thursday,UNESCO World Heritage Site,No,2.5,April to September,12.7067,68.2401
+South,Telangana,Hyderabad,Place 175,Nature,,3.9,4.3,100,Yes,Monday,Popular Tourist Spot,No,1.3,October to March,16.5854,95.3012
+North-East,West Bengal,Darjeeling,Place 176,Historical,,3.2,3.5,200,No,Thursday,Colonial Heritage,No,6.9,Year-round,13.6269,86.7361
+East,Himachal Pradesh,Shimla,Place 177,Nature,1609.0,1.4,3.8,100,No,Tuesday,Colonial Heritage,Yes,0.6,October to March,29.3846,86.1519
+South,Karnataka,Mysuru,Place 178,Nature,,4.0,4.3,20,No,Tuesday,Pilgrimage Site,Yes,7.2,April to September,35.7946,80.2108
+East,Andhra Pradesh,Tirupati,Place 179,Religious,,2.4,4.7,20,Yes,Tuesday,Colonial Heritage,Yes,8.9,April to September,28.6655,90.4011
+North-East,Himachal Pradesh,Shimla,Place 180,Monument,,4.3,3.8,100,Yes,Friday,Colonial Heritage,Yes,4.8,October to March,17.3348,68.2952
+West,Andhra Pradesh,Tirupati,Place 181,Religious,,2.5,4.8,50,No,Saturday,Popular Tourist Spot,Yes,7.5,October to March,10.8214,75.815
+North,Gujarat,Ahmedabad,Place 182,Museum,1821.0,1.4,4.1,0,Yes,Saturday,Colonial Heritage,Yes,2.3,October to March,21.5273,81.3817
+North-East,Karnataka,Bengaluru,Place 183,Market,,3.0,3.8,200,Yes,Friday,Colonial Heritage,No,4.2,April to September,28.0049,93.3679
+South,Jammu & Kashmir,Jammu,Place 184,Beach,,1.8,4.9,200,Yes,Tuesday,Popular Tourist Spot,Yes,10.0,April to September,27.8516,82.5063
+Central,Uttar Pradesh,Varanasi,Place 185,Religious,,3.1,4.4,200,Yes,None,Colonial Heritage,No,9.3,October to March,16.9223,72.382
+Central,Himachal Pradesh,Shimla,Place 186,Monument,1963.0,2.5,5.0,0,Yes,Wednesday,Colonial Heritage,Yes,1.6,Year-round,14.1221,82.8341
+North,Meghalaya,Shillong,Place 187,Beach,1930.0,3.7,4.7,0,Yes,Monday,Popular Tourist Spot,No,8.4,October to March,33.2084,81.9587
+North-East,Goa,Panaji,Place 188,Museum,1851.0,1.2,3.6,50,No,Sunday,UNESCO World Heritage Site,No,5.3,October to March,28.3823,83.9098
+North,Meghalaya,Shillong,Place 189,Religious,1906.0,4.2,4.0,20,Yes,None,Popular Tourist Spot,No,7.0,October to March,10.7925,89.9377
+Central,Telangana,Hyderabad,Place 190,Religious,,1.3,4.8,200,No,Monday,Pilgrimage Site,Yes,4.7,April to September,24.7036,93.8163
+South,Uttar Pradesh,Varanasi,Place 191,Monument,,2.8,4.5,0,No,Saturday,Popular Tourist Spot,Yes,5.5,April to September,19.2088,84.0089
+Central,Kerala,Thiruvananthapuram,Place 192,Cultural,1683.0,2.0,4.7,0,No,Saturday,Colonial Heritage,Yes,6.7,October to March,16.3517,77.44
+Central,Tamil Nadu,Coimbatore,Place 193,Cultural,,3.5,4.4,100,Yes,Wednesday,Popular Tourist Spot,Yes,7.3,April to September,32.7905,79.5542
+South,Goa,Panaji,Place 194,Market,1646.0,2.2,4.5,20,No,Wednesday,Pilgrimage Site,No,4.9,Year-round,28.54,84.3655
+East,West Bengal,Kolkata,Place 195,Monument,1628.0,1.7,3.6,50,No,None,Colonial Heritage,Yes,7.7,October to March,14.7661,71.7408
+South,Punjab,Chandigarh,Place 196,Nature,1860.0,4.8,4.1,200,Yes,Saturday,Pilgrimage Site,Yes,3.3,April to September,36.1052,82.6085
+North-East,Jammu & Kashmir,Jammu,Place 197,Museum,,1.5,4.2,100,Yes,Thursday,Popular Tourist Spot,Yes,7.2,Year-round,19.5093,92.8385
+North,Himachal Pradesh,Manali,Place 198,Beach,1771.0,4.0,4.0,20,Yes,None,Pilgrimage Site,Yes,2.8,April to September,22.6005,86.7508
+North-East,Bihar,Patna,Place 199,Market,1711.0,4.7,4.0,50,Yes,Monday,UNESCO World Heritage Site,No,8.8,Year-round,13.6882,74.0091
+North-East,Andhra Pradesh,Tirupati,Place 200,Beach,1803.0,4.2,3.6,50,Yes,Saturday,Pilgrimage Site,Yes,7.6,April to September,20.3295,90.3365
+East,Madhya Pradesh,Bhopal,Place 201,Beach,,4.8,4.9,20,No,Wednesday,Colonial Heritage,Yes,0.7,April to September,33.9445,81.0032
+South,Kerala,Thiruvananthapuram,Place 202,Religious,,4.1,3.9,20,Yes,Sunday,Popular Tourist Spot,No,5.4,Year-round,14.3852,72.6822
+East,West Bengal,Kolkata,Place 203,Market,1746.0,3.3,4.4,0,Yes,Thursday,Popular Tourist Spot,Yes,7.4,Year-round,32.2737,79.3483
+West,Bihar,Gaya,Place 204,Historical,,1.6,4.6,0,No,Friday,Pilgrimage Site,Yes,6.7,October to March,17.4928,81.5139
+North,Goa,Panaji,Place 205,Beach,1832.0,4.8,4.3,200,Yes,Saturday,UNESCO World Heritage Site,Yes,5.8,Year-round,19.5759,75.1178
+Central,Karnataka,Bengaluru,Place 206,Nature,,2.5,5.0,100,Yes,Monday,UNESCO World Heritage Site,No,1.5,Year-round,25.6804,68.9636
+South,Punjab,Chandigarh,Place 207,Historical,,3.7,4.3,0,No,Sunday,UNESCO World Heritage Site,Yes,4.8,April to September,12.5328,95.3874
+East,Telangana,Hyderabad,Place 208,Cultural,1594.0,4.9,4.4,20,Yes,Monday,Popular Tourist Spot,Yes,1.3,October to March,12.76,81.3326
+North,Tamil Nadu,Chennai,Place 209,Monument,1761.0,1.4,4.4,0,No,Thursday,UNESCO World Heritage Site,No,4.5,April to September,31.5228,85.8255
+North,Himachal Pradesh,Manali,Place 210,Cultural,1583.0,4.4,4.5,200,No,Monday,UNESCO World Heritage Site,No,4.8,Year-round,25.6947,95.7866
+West,Assam,Guwahati,Place 211,Beach,,4.3,4.3,50,No,Saturday,UNESCO World Heritage Site,No,4.1,Year-round,28.6347,69.6193
+Central,Telangana,Hyderabad,Place 212,Nature,1521.0,1.6,4.1,0,No,Wednesday,Popular Tourist Spot,No,9.8,Year-round,12.8163,91.2998
+North-East,Himachal Pradesh,Manali,Place 213,Monument,,1.4,4.4,0,Yes,Monday,UNESCO World Heritage Site,No,5.8,October to March,10.0651,78.3455
+North,Himachal Pradesh,Manali,Place 214,Market,1784.0,2.5,4.8,100,Yes,Tuesday,Pilgrimage Site,No,9.6,April to September,31.1859,78.5638
+North,Madhya Pradesh,Gwalior,Place 215,Monument,,4.2,3.6,20,Yes,Friday,Popular Tourist Spot,No,7.4,April to September,26.8943,74.8829
+West,Goa,Margao,Place 216,Beach,,4.2,4.1,0,Yes,Tuesday,Colonial Heritage,No,4.1,April to September,9.5771,96.7539
+North-East,Bihar,Gaya,Place 217,Monument,1922.0,1.4,4.4,20,Yes,Tuesday,Popular Tourist Spot,No,4.4,October to March,27.0729,94.1619
+East,Gujarat,Vadodara,Place 218,Historical,,4.1,4.0,100,No,Wednesday,Popular Tourist Spot,No,5.5,April to September,36.7494,71.3306
+East,Bihar,Gaya,Place 219,Religious,,4.6,4.2,0,Yes,Thursday,Colonial Heritage,Yes,2.8,April to September,28.7307,92.7525
+Central,Gujarat,Vadodara,Place 220,Beach,,2.8,3.9,0,No,None,Pilgrimage Site,Yes,5.5,October to March,26.2024,68.9143
+North,Telangana,Hyderabad,Place 221,Museum,,3.2,4.2,20,Yes,Thursday,UNESCO World Heritage Site,Yes,7.3,Year-round,16.8656,68.6482
+North,Punjab,Chandigarh,Place 222,Nature,1922.0,5.0,4.7,0,No,Thursday,Pilgrimage Site,No,8.9,October to March,12.4432,92.535
+South,Himachal Pradesh,Shimla,Place 223,Cultural,,1.3,4.1,0,No,None,Popular Tourist Spot,Yes,3.2,Year-round,29.4827,92.3741
+Central,Punjab,Chandigarh,Place 224,Market,1632.0,1.6,3.9,200,Yes,Tuesday,UNESCO World Heritage Site,No,6.6,April to September,28.3404,71.5631
+South,Gujarat,Ahmedabad,Place 225,Nature,,3.6,4.5,20,No,None,Popular Tourist Spot,No,7.3,Year-round,28.0968,81.479
+West,Jammu & Kashmir,Jammu,Place 226,Nature,,2.7,4.3,20,Yes,Thursday,UNESCO World Heritage Site,No,5.7,Year-round,20.2938,77.5596
+West,Tamil Nadu,Madurai,Place 227,Nature,,2.1,4.6,200,No,None,Popular Tourist Spot,No,4.6,October to March,22.3216,78.0709
+North-East,West Bengal,Darjeeling,Place 228,Market,1658.0,3.0,4.4,200,No,Wednesday,Popular Tourist Spot,No,4.2,October to March,16.737,73.3148
+Central,West Bengal,Darjeeling,Place 229,Monument,,4.6,4.9,100,No,None,UNESCO World Heritage Site,Yes,2.4,October to March,11.7302,81.999
+West,Bihar,Patna,Place 230,Religious,1932.0,4.0,4.2,50,Yes,Tuesday,Pilgrimage Site,Yes,2.7,October to March,17.2762,93.3988
+North,Madhya Pradesh,Indore,Place 231,Cultural,1641.0,1.1,4.2,0,Yes,Monday,UNESCO World Heritage Site,No,5.2,Year-round,33.4129,82.9087
+North-East,Himachal Pradesh,Shimla,Place 232,Market,,3.1,3.6,100,Yes,Thursday,Colonial Heritage,No,8.3,April to September,22.4941,73.7062
+North-East,Jammu & Kashmir,Srinagar,Place 233,Monument,1622.0,1.9,3.8,200,No,Tuesday,Colonial Heritage,Yes,8.6,Year-round,17.467,89.5933
+South,Himachal Pradesh,Manali,Place 234,Cultural,1618.0,3.6,3.6,0,No,Friday,UNESCO World Heritage Site,Yes,3.7,Year-round,16.3907,70.6948
+North,Gujarat,Ahmedabad,Place 235,Beach,,4.4,3.7,20,Yes,Thursday,Colonial Heritage,No,2.4,April to September,31.7302,81.0967
+West,Assam,Tezpur,Place 236,Religious,,2.6,3.6,100,Yes,Friday,Popular Tourist Spot,No,4.8,October to March,30.0025,72.4496
+Central,Odisha,Puri,Place 237,Religious,,1.1,4.1,100,Yes,Thursday,Colonial Heritage,No,1.9,October to March,18.1138,85.185
+South,Telangana,Hyderabad,Place 238,Beach,1994.0,3.2,3.9,100,Yes,Sunday,Colonial Heritage,No,2.0,Year-round,24.2603,90.8194
+East,Goa,Margao,Place 239,Beach,,1.8,4.9,200,No,Monday,Pilgrimage Site,No,5.0,October to March,21.0122,76.0828
+Central,Rajasthan,Jodhpur,Place 240,Historical,1629.0,4.3,4.8,20,Yes,None,UNESCO World Heritage Site,No,2.6,Year-round,10.3251,81.997
+South,Punjab,Chandigarh,Place 241,Nature,1922.0,4.9,4.2,100,No,Thursday,UNESCO World Heritage Site,No,8.2,April to September,33.0681,77.0859
+Central,Meghalaya,Shillong,Place 242,Market,1949.0,5.0,4.0,0,No,Friday,Popular Tourist Spot,No,5.4,Year-round,19.8738,68.0733
+Central,Uttar Pradesh,Lucknow,Place 243,Beach,,4.4,4.3,20,Yes,Monday,Colonial Heritage,Yes,3.5,Year-round,33.4788,83.5261
+North,Bihar,Gaya,Place 244,Historical,1931.0,1.9,3.6,50,Yes,Thursday,Pilgrimage Site,Yes,6.7,April to September,21.155,85.5577
+North,Madhya Pradesh,Gwalior,Place 245,Nature,1996.0,1.4,3.8,0,Yes,Monday,Pilgrimage Site,No,3.6,October to March,28.4629,96.9827
+South,Telangana,Hyderabad,Place 246,Historical,,3.5,4.6,200,No,Friday,Popular Tourist Spot,No,6.8,Year-round,13.0875,72.6041
+West,Himachal Pradesh,Manali,Place 247,Beach,,1.6,3.8,0,No,Sunday,Popular Tourist Spot,Yes,6.8,April to September,36.0603,69.968
+West,Assam,Tezpur,Place 248,Market,1599.0,3.1,4.9,100,Yes,Tuesday,Pilgrimage Site,No,4.9,Year-round,29.7207,91.1561
+East,Andhra Pradesh,Visakhapatnam,Place 249,Beach,1849.0,2.2,4.0,20,No,Friday,UNESCO World Heritage Site,Yes,5.3,Year-round,24.402,94.382
+West,Andhra Pradesh,Tirupati,Place 250,Market,1625.0,2.2,3.9,100,Yes,None,Pilgrimage Site,Yes,5.3,April to September,36.6034,89.6304
+South,Jammu & Kashmir,Jammu,Place 251,Cultural,,1.4,4.4,100,No,None,Popular Tourist Spot,Yes,7.6,Year-round,25.0059,69.3613
+Central,Assam,Tezpur,Place 252,Religious,1674.0,4.5,4.6,100,No,Monday,Pilgrimage Site,Yes,1.5,April to September,11.6005,96.0949
+North-East,Kerala,Thiruvananthapuram,Place 253,Museum,,3.1,3.8,50,Yes,Tuesday,Popular Tourist Spot,Yes,7.4,Year-round,28.5987,70.4784
+North,Kerala,Kochi,Place 254,Cultural,1757.0,4.0,3.6,50,No,Saturday,UNESCO World Heritage Site,Yes,4.6,October to March,14.7055,87.0867
+West,Uttar Pradesh,Agra,Place 255,Market,,2.4,4.5,100,Yes,Wednesday,Popular Tourist Spot,No,9.7,October to March,10.4175,91.6272
+North,West Bengal,Darjeeling,Place 256,Historical,1680.0,1.1,4.8,0,Yes,None,Pilgrimage Site,Yes,5.6,April to September,31.4336,89.2633
+East,Uttar Pradesh,Varanasi,Place 257,Beach,1720.0,4.2,3.6,0,No,Sunday,UNESCO World Heritage Site,No,8.6,October to March,15.9653,88.2547
+North,Gujarat,Vadodara,Place 258,Cultural,1737.0,2.0,3.8,50,Yes,Saturday,Colonial Heritage,Yes,2.4,October to March,15.3703,91.3695
+Central,Jammu & Kashmir,Srinagar,Place 259,Cultural,1807.0,3.5,4.7,20,No,Wednesday,Popular Tourist Spot,Yes,2.1,Year-round,9.4311,75.9436
+East,Gujarat,Ahmedabad,Place 260,Historical,1595.0,1.1,4.4,20,No,Thursday,Popular Tourist Spot,No,7.6,Year-round,25.9441,85.744
+West,Punjab,Amritsar,Place 261,Religious,1877.0,3.6,4.3,50,Yes,Friday,Colonial Heritage,No,8.3,April to September,29.9047,78.5463
+West,Meghalaya,Shillong,Place 262,Museum,1571.0,3.4,4.1,100,Yes,Tuesday,Popular Tourist Spot,No,8.0,Year-round,27.2389,81.588
+South,Delhi,Delhi,Place 263,Monument,,1.8,4.4,0,Yes,Tuesday,Colonial Heritage,Yes,2.1,October to March,30.2585,82.9604
+Central,Madhya Pradesh,Gwalior,Place 264,Museum,1641.0,1.6,4.1,0,No,Sunday,Colonial Heritage,Yes,0.9,October to March,34.784,77.2086
+East,Jammu & Kashmir,Srinagar,Place 265,Market,1758.0,1.4,3.6,50,No,None,Colonial Heritage,No,4.0,October to March,13.4774,79.0015
+North,Delhi,Delhi,Place 266,Market,,3.9,3.8,200,Yes,Monday,UNESCO World Heritage Site,Yes,1.1,October to March,9.5193,79.1953
+Central,Bihar,Gaya,Place 267,Museum,1540.0,3.7,3.6,50,Yes,Wednesday,UNESCO World Heritage Site,No,1.8,October to March,34.9239,81.7572
+West,Karnataka,Mysuru,Place 268,Monument,,2.1,3.6,200,No,Sunday,Colonial Heritage,No,4.6,Year-round,16.4917,85.631
+South,Kerala,Thiruvananthapuram,Place 269,Museum,,2.6,3.9,100,Yes,Friday,Colonial Heritage,Yes,5.4,Year-round,14.0438,70.1218
+South,Andhra Pradesh,Tirupati,Place 270,Historical,1614.0,4.5,4.3,200,Yes,Saturday,UNESCO World Heritage Site,No,9.2,April to September,19.3419,77.6304
+West,Himachal Pradesh,Manali,Place 271,Nature,,4.1,3.5,0,Yes,Thursday,Popular Tourist Spot,Yes,2.6,October to March,13.4523,90.2726
+North-East,Bihar,Patna,Place 272,Monument,,1.8,4.2,0,Yes,Wednesday,Popular Tourist Spot,Yes,0.8,October to March,18.1765,68.4496
+East,Tamil Nadu,Chennai,Place 273,Monument,,5.0,4.5,20,No,Wednesday,Pilgrimage Site,Yes,6.4,Year-round,34.8106,73.4166
+North-East,Andhra Pradesh,Visakhapatnam,Place 274,Historical,,3.2,4.6,0,Yes,Thursday,Pilgrimage Site,Yes,1.1,April to September,17.3009,91.3476
+North-East,Odisha,Bhubaneswar,Place 275,Market,,4.0,4.9,100,Yes,Saturday,Pilgrimage Site,Yes,6.1,October to March,28.0185,81.7113
+North-East,Jammu & Kashmir,Jammu,Place 276,Historical,,1.6,4.3,0,No,Tuesday,Colonial Heritage,No,5.0,October to March,16.5541,96.3387
+South,Punjab,Chandigarh,Place 277,Religious,1547.0,4.2,4.2,0,Yes,Wednesday,Colonial Heritage,No,4.8,April to September,15.4277,71.5807
+East,Assam,Guwahati,Place 278,Cultural,1969.0,4.3,4.9,200,Yes,Wednesday,Popular Tourist Spot,Yes,0.8,April to September,27.7117,83.1466
+East,Punjab,Amritsar,Place 279,Museum,1908.0,4.5,4.1,100,No,Monday,Pilgrimage Site,Yes,6.6,Year-round,22.9955,81.6166
+South,Telangana,Hyderabad,Place 280,Monument,,2.3,3.5,100,Yes,Wednesday,UNESCO World Heritage Site,Yes,3.2,April to September,16.81,83.3158
+South,Madhya Pradesh,Gwalior,Place 281,Monument,,2.0,3.9,50,No,Saturday,UNESCO World Heritage Site,No,1.4,Year-round,20.4809,92.3963
+East,Gujarat,Ahmedabad,Place 282,Nature,1738.0,2.3,4.1,20,No,None,Colonial Heritage,No,1.4,Year-round,24.6212,83.0119
+East,Goa,Panaji,Place 283,Beach,1733.0,1.3,4.3,200,Yes,None,Colonial Heritage,Yes,3.4,Year-round,15.6998,94.1978
+North-East,Himachal Pradesh,Shimla,Place 284,Historical,1571.0,3.8,3.8,100,No,Saturday,UNESCO World Heritage Site,Yes,6.6,Year-round,29.057,76.4038
+Central,Goa,Margao,Place 285,Nature,1586.0,2.7,4.6,50,No,None,Popular Tourist Spot,No,1.1,Year-round,21.8676,75.1128
+Central,Assam,Guwahati,Place 286,Nature,,4.6,4.7,200,No,Wednesday,Pilgrimage Site,No,3.9,Year-round,22.3017,79.2792
+North-East,West Bengal,Darjeeling,Place 287,Museum,1791.0,2.7,4.5,20,Yes,Saturday,Popular Tourist Spot,No,6.2,Year-round,19.7359,85.6687
+East,Punjab,Chandigarh,Place 288,Historical,1798.0,3.2,4.1,20,Yes,None,UNESCO World Heritage Site,Yes,4.5,April to September,26.5411,83.385
+North-East,Delhi,Delhi,Place 289,Beach,1624.0,1.0,3.7,200,No,None,Popular Tourist Spot,No,5.0,Year-round,18.3367,96.0463
+North,Uttar Pradesh,Agra,Place 290,Beach,1968.0,3.5,3.5,20,Yes,Saturday,Colonial Heritage,No,3.5,Year-round,32.9824,87.5464
+South,Gujarat,Ahmedabad,Place 291,Museum,,1.6,4.6,200,Yes,None,Pilgrimage Site,Yes,2.1,April to September,15.7436,72.4565
+Central,Uttar Pradesh,Agra,Place 292,Museum,1588.0,4.0,4.1,0,Yes,Friday,UNESCO World Heritage Site,No,2.0,October to March,27.9525,89.763
+North,Telangana,Hyderabad,Place 293,Historical,1556.0,1.6,4.2,100,No,Tuesday,Colonial Heritage,No,2.6,Year-round,10.3196,92.6313
+South,Odisha,Puri,Place 294,Religious,,2.2,4.9,0,No,Tuesday,Pilgrimage Site,Yes,2.5,April to September,34.8634,78.0227
+North-East,Rajasthan,Jodhpur,Place 295,Beach,1907.0,3.7,4.8,100,No,Friday,Pilgrimage Site,No,0.5,October to March,13.8129,75.0054
+North-East,Goa,Panaji,Place 296,Religious,,3.3,4.5,200,No,None,Popular Tourist Spot,No,7.8,April to September,14.4781,92.151
+East,Tamil Nadu,Chennai,Place 297,Monument,,4.4,3.7,20,No,Wednesday,UNESCO World Heritage Site,Yes,7.6,October to March,15.7349,70.6251
+East,Bihar,Gaya,Place 298,Beach,1510.0,1.8,4.1,20,No,Monday,UNESCO World Heritage Site,Yes,9.1,April to September,29.0218,84.7003
+East,Delhi,Delhi,Place 299,Market,1520.0,3.7,4.7,100,Yes,Thursday,Popular Tourist Spot,Yes,1.6,Year-round,16.9109,68.8626
+West,Rajasthan,Jaipur,Place 300,Museum,,2.2,4.7,50,No,Monday,UNESCO World Heritage Site,Yes,1.8,October to March,17.5676,69.7401

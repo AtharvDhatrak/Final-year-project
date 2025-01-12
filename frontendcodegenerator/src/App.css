@@ -1,0 +1,11 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  margin-top: 20px;
+}
