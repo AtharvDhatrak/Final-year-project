@@ -21,9 +21,18 @@ mongoose.connect(MONGO_URI)
 
 // User Schema
 const userSchema = new mongoose.Schema({
-  name: { type: String, required: true , match: [/^\S+@\S+\.\S+$/, 'Invalid email format']},
-  email: { type: String, required: true, unique: true },
-  phone: { type: String, required: true ,match: [/^\d{10}$/, 'Invalid phone number format (must be 10 digits)']},
+  name: { type: String, required: true }, // ✅ FIXED: Removed email validation
+  email: { 
+    type: String, 
+    required: true, 
+    unique: true, 
+    match: [/^\S+@\S+\.\S+$/, 'Invalid email format'] // ✅ Correct email validation
+  },
+  phone: { 
+    type: String, 
+    required: true, 
+    match: [/^\d{10}$/, 'Invalid phone number format (must be 10 digits)'] 
+  },
   username: { type: String, required: true, unique: true },
   password: { type: String, required: true },
 },{ timestamps: true });
