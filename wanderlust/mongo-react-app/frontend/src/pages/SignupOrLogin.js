@@ -62,7 +62,7 @@ const SignupOrLogin = () => {
 
 
   return (
-    <div className="page-container">
+    <div className="page-background">
       <div className="glass">
         <h1>Wanderlust</h1>
         {error && <p style={{ color: 'red' }}>{error}</p>} {/* Display error */}
@@ -98,9 +98,9 @@ const SignupOrLogin = () => {
         </form>
 
         {/* Other buttons */}
-        <button>Continue with Apple</button>
+        {/* <button>Continue with Apple</button>
         <button>Continue with Google</button>
-        <button>Continue with Facebook</button>
+        <button>Continue with Facebook</button> */}
       </div>
     </div>
   );

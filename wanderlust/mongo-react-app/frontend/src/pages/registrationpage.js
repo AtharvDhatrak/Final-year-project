@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
-import '../styles/login.css';
+// import '../styles/login.css';
 import '../styles/registration.css';
 
 function Registration() {
