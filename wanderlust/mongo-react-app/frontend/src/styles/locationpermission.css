@@ -1,0 +1,32 @@
+.page-background {
+    background-image: url('https://res.cloudinary.com/dkkt4pmey/image/upload/v1717708995/2813203_ko3hpr.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100lvh;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .glass {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:40px;
+    background: rgba(255, 255, 255, 0.2); /* Transparent white */
+    backdrop-filter: blur(10px); /* Frosted glass effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Subtle border */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Soft shadow */
+   /* Space inside the container */
+    /* width: 300px;
+    height: 400px; */
+    display: flex; /* For centering content */
+    flex-direction: column; /* Stack content vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+  } 

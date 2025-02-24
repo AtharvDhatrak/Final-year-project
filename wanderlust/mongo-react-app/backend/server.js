@@ -35,6 +35,8 @@ const userSchema = new mongoose.Schema({
   },
   username: { type: String, required: true, unique: true },
   password: { type: String, required: true },
+  latitude: { type: Number }, // Add latitude field
+  longitude: { type: Number }, // Add longitude field
 },{ timestamps: true });
 
 // Hash password before saving
@@ -80,6 +82,33 @@ app.post('/register', async (req, res) => {
     res.status(500).json({ message: 'Error registering user' });
   }
 });
+
+// Update Location Route
+{/* app.post('/update-location', authenticate, async (req, res) => {
+  const { latitude, longitude } = req.body;
+
+  if (latitude === undefined || longitude === undefined) {
+    return res.status(400).json({ message: 'Latitude and Longitude are required' });
+  }
+
+  try {
+    const userId = req.user.userId; // Get user ID from the token
+    const user = await User.findByIdAndUpdate(
+      userId,
+      { latitude, longitude },
+      { new: true } // Return the updated document
+    );
+
+    if (!user) {
+      return res.status(404).json({ message: 'User  not found' });
+    }
+
+    res.status(200).json({ message: 'Location updated successfully', user });
+  } catch (error) {
+    console.error('Error updating location:', error);
+    res.status(500).json({ message: 'Error updating location' });
+  }
+}); */}
 
 
 

@@ -1,7 +1,8 @@
 import React from 'react';
 const FeedbackForm = () => {
     return (
-        <div style={containerStyle}>
+        <div className='page-background' style={containerStyle}>
+          <div className='glass'> 
           <h2>How was your experience?</h2>
           <div>
             <p>What did you like about this? (Optional)</p>
@@ -20,6 +21,7 @@ const FeedbackForm = () => {
             style={textareaStyle}
           />
           <button style={submitButtonStyle}>Submit Feedback</button>
+        </div>
         </div>
       );};
 
