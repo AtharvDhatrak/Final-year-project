@@ -1,12 +1,32 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
+import Cookies from 'js-cookie'; // Import js-cookie
 
 const LocationPermission = () => {
   const [location, setLocation] = useState({ lat: 28.7041, lng: 77.1025 }); // Default to New Delhi
   const [showMap, setShowMap] = useState(false); // To toggle map visibility
   const [errorMessage, setErrorMessage] = useState(''); // To handle errors
   const navigate = useNavigate(); // Initialize navigate
+
+  // Read latitude and longitude from cookies on component mount
+  useEffect(() => {
+    const lat = Cookies.get('latitude');
+    const lng = Cookies.get('longitude');
+    const username = Cookies.get('username');
+    const password = Cookies.get('password');
+
+    console.log('Cookies on mount:');
+    console.log('Username:', username);
+    console.log('Password:', password);
+    console.log('Latitude:', lat);
+    console.log('Longitude:', lng);
+
+    if (lat && lng) {
+      setLocation({ lat: parseFloat(lat), lng: parseFloat(lng) });
+      setShowMap(true);
+    }
+  }, []);
 
   const enableLocation = () => {
     if (navigator.geolocation) {
@@ -17,6 +37,21 @@ const LocationPermission = () => {
           setLocation({ lat: latitude, lng: longitude });
           setShowMap(true); // Show map after getting location
           setErrorMessage(''); // Clear error message
+
+          // Set cookies for username, password, latitude, and longitude
+          const username = 'JohnDoe'; // Replace with actual username
+          const password = 'password123'; // Replace with actual password
+          Cookies.set('username', username, { expires: 7 }); // Expires in 7 days
+          Cookies.set('password', password, { expires: 7 }); // Expires in 7 days
+          Cookies.set('latitude', latitude, { expires: 7 }); // Expires in 7 days
+          Cookies.set('longitude', longitude, { expires: 7 }); // Expires in 7 days
+
+          // Log the cookies to the console
+          console.log('Cookies set:');
+          console.log('Username:', Cookies.get('username'));
+          console.log('Password:', Cookies.get('password'));
+          console.log('Latitude:', Cookies.get('latitude'));
+          console.log('Longitude:', Cookies.get('longitude'));
 
           // Navigate to InformationDisplay with latitude and longitude
           navigate('/information-display', { state: { latitude, longitude } });
