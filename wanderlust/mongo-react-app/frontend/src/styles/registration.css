@@ -114,3 +114,22 @@ button:disabled {
     padding: 10px;
   }
 }
+
+/* registration.css */
+.page-background {
+  padding: 20px;
+  margin: 0 auto;
+  /* Add other background styles if needed */
+}
+
+.registrationglass {
+  /* Your glass effect styles here */
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  margin-bottom: 20px;
+  width: 80%;
+  max-width: 500px;
+}
